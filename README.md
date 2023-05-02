@@ -2,10 +2,10 @@
 This is a React application that fetches a random user from the Random User API and displays their name and email address.
 
 # Table of Contents
-Getting Started
-Prerequisites
-Installing
-Running the App
+Getting Started->
+Prerequisites->
+Installing->
+Running the App->
 Built With
 
 # Getting Started
