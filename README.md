@@ -8,8 +8,6 @@ Prerequisites
 Installing
 Running the App
 Built With
-Contributing
-License
 
 # Getting Started
 These instructions will help you get a copy of the project up and running on your local machine.
