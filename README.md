@@ -1,5 +1,4 @@
 # userinfo-reactapp
-
 This is a React application that fetches a random user from the Random User API and displays their name and email address.
 
 # Table of Contents
@@ -14,7 +13,6 @@ These instructions will help you get a copy of the project up and running on you
 
 # Prerequisites
 You will need the following software installed on your local machine:
-
 Git
 Node.js (version 10 or later)
 npm (version 6 or later)
@@ -22,7 +20,6 @@ npm (version 6 or later)
 # Installing
 Clone the project repository to your local machine using Git.
 https://github.com/pratapsingh3/userinfo-reactapp.git
-
 Navigate to the project directory and install the project dependencies using npm.
 cd <repository-name>
 npm install
